@@ -6,10 +6,6 @@ Amazon Lookout for Vision Python SDK
    :target: https://pypi.python.org/pypi/lookoutvision
    :alt: Latest Version
 
-.. image:: https://img.shields.io/pypi/pyversions/lookoutvision.svg
-   :target: https://pypi.python.org/pypi/lookoutvision
-   :alt: Supported Python Versions
-
 .. image:: https://img.shields.io/badge/code_style-black-000000.svg
    :target: https://github.com/python/black
    :alt: Code style: black
