@@ -10,3 +10,4 @@ lookoutvision/__pycache__/
 tests/__pycache__/
 .DS_Store
 .vscode/
+pyproject.toml
