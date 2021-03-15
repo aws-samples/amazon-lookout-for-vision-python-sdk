@@ -18,7 +18,7 @@ The Amazon Lookout for Vision Python SDK is an open-source library that allows d
 scientists and software developers to easily build, train and deploy computer vision (CV)
 models using Amazon Lookout for Vision.
 
-* Computer Vision - `Comput vision is an interdisciplinary field that deals with how computers can be made to gain a high level understanding from digital images or videos <https://en.wikipedia.org/wiki/Computer_vision#Definition>`_
+* Computer Vision - `Computer vision is an interdisciplinary field that deals with how computers can be made to gain a high level understanding from digital images or videos <https://en.wikipedia.org/wiki/Computer_vision#Definition>`_
 * Amazon Lookout for Vision - https://aws.amazon.com/lookout-for-vision/
 
 The Amazon Lookout for Vision Python SDK enables you to do the following.
